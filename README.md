@@ -1,1 +1,4 @@
 # curso-python-pic
+
+##Steps
+
